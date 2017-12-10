@@ -27,15 +27,15 @@ namespace Library.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
-
             //register the DbContext on the container, getting the connection string from
             //appSettings.
-            var connectionString = Configuration["connectionStrings: libraryDBConnectionString"];
-            services.AddDbContext<LibraryContext>(o => o.UseSqlServer(connectionString));
+            var connectionString = Configuration["connectionStrings:libraryDBConnectionString"];
+            services.AddDbContext<LibraryContext>(options => options.UseSqlServer(connectionString));
 
             //register the repository
             services.AddScoped<ILibraryRepository, LibraryRepository>();
+
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
