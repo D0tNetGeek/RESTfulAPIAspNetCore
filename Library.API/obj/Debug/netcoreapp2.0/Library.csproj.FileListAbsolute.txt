@@ -1,0 +1,11 @@
+C:\Work\RESTfulAPIAspNetCore\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+C:\Work\RESTfulAPIAspNetCore\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+C:\Work\RESTfulAPIAspNetCore\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Work\RESTfulAPIAspNetCore\Library\bin\Debug\netcoreapp2.0\Library.dll
+C:\Work\RESTfulAPIAspNetCore\Library\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Work\RESTfulAPIAspNetCore\Library\obj\Debug\netcoreapp2.0\Library.csprojResolveAssemblyReference.cache
+C:\Work\RESTfulAPIAspNetCore\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+C:\Work\RESTfulAPIAspNetCore\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Work\RESTfulAPIAspNetCore\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+C:\Work\RESTfulAPIAspNetCore\Library\obj\Debug\netcoreapp2.0\Library.dll
+C:\Work\RESTfulAPIAspNetCore\Library\obj\Debug\netcoreapp2.0\Library.pdb
